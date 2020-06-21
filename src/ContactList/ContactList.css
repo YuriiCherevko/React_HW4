@@ -1,0 +1,9 @@
+.contacts-list,
+.contact-form {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 50%;
+}
+.contact-form {
+  vertical-align: top;
+}

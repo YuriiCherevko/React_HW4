@@ -1,0 +1,30 @@
+.stickers {
+  width: 150px;
+  height: 200px;
+  background-color: wheat;
+  border: 1px solid rgb(34, 34, 34);
+  border-radius: 5px;
+}
+
+.stickersHeader {
+  background-color: rgb(77, 172, 0);
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+textarea {
+  background-color: white;
+  width: 130px;
+  height: 160px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+span {
+  background: none;
+}
+.delete-sticker:hover {
+  background-color: red;
+  border-radius: 5px;
+}
